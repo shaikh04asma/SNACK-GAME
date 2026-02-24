@@ -93,7 +93,7 @@ section .infos {
 }
 .block {
   border: 1px solid var(--border-primary-color);
-
+  border-radius: 45%;
 }
 .fill {
   background-color: var(--bg-fill-color);
